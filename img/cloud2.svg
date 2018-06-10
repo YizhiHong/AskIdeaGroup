@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="102px" height="39px" viewBox="0 0 102 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 140</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M100.645856,38.1185647 C101.262406,36.3986439 101.595978,34.5607145 101.595978,32.6512385 C101.595978,23.0022668 93.0782601,15.1802297 82.5711228,15.1802297 C80.0165185,15.1802297 77.5795136,15.6426089 75.3539328,16.4812057 C74.7951248,7.29273489 66.5045123,0 56.3591003,0 C47.4336648,0 39.9437729,5.6442975 37.8910371,13.2581099 C34.4424606,11.7488807 30.5826772,10.9041087 26.5080385,10.9041087 C11.8770336,10.9041087 0.0162605598,21.7961586 0.0162605598,35.232183 C0.0162605598,36.2088201 0.0789274107,37.1720161 0.200769894,38.1185647 L100.645856,38.1185647 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="欢迎页" transform="translate(-1244.000000, -497.000000)">
+            <g id="云" transform="translate(95.000000, 67.000000)">
+                <g id="Path-140" transform="translate(1149.000000, 430.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#8BCDFB" xlink:href="#path-1"></use>
+                    <path d="M54.0729854,-32.4502174 L54.0729841,74.3682283 L-75.0448911,54.0009871 L-108.750624,3.84664971 L-18.6280277,-74.7710308 L54.0729854,-32.4502174 Z" fill="#359EE6" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

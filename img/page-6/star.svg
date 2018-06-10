@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="511px" height="199px" viewBox="0 0 511 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>星星</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Metas" transform="translate(-456.000000, -494.000000)">
+            <g id="星星" transform="translate(447.000000, 492.000000)">
+                <polygon id="Star-1" fill="#FDD51F" transform="translate(431.500000, 21.500000) rotate(28.000000) translate(-431.500000, -21.500000) " points="431.5 26.25 425.91604 29.1856614 426.982482 22.9678307 422.464963 18.5643386 428.70802 17.6571693 431.5 12 434.29198 17.6571693 440.535037 18.5643386 436.017518 22.9678307 437.08396 29.1856614 "></polygon>
+                <polygon id="Star-1-Copy" fill="#FDD51F" transform="translate(403.500000, 7.500000) rotate(19.000000) translate(-403.500000, -7.500000) " points="403.5 10.25 400.267181 11.9495935 400.884595 8.34979673 398.269189 5.80040653 401.883591 5.27520327 403.5 2 405.116409 5.27520327 408.730811 5.80040653 406.115405 8.34979673 406.732819 11.9495935 "></polygon>
+                <polygon id="Star-1-Copy-4" fill="#FDD51F" transform="translate(505.000000, 185.990977) rotate(19.000000) translate(-505.000000, -185.990977) " points="505 188.740977 501.767181 190.44057 502.384595 186.840774 499.769189 184.291384 503.383591 183.76618 505 180.490977 506.616409 183.76618 510.230811 184.291384 507.615405 186.840774 508.232819 190.44057 "></polygon>
+                <polygon id="Star-1-Copy-2" fill="#FDD51F" transform="translate(60.500000, 50.500000) rotate(-9.000000) translate(-60.500000, -50.500000) " points="60.5 55.25 54.9160401 58.1856614 55.9824815 51.9678307 51.4649631 47.5643386 57.7080201 46.6571693 60.5 41 63.2919799 46.6571693 69.5350369 47.5643386 65.0175185 51.9678307 66.0839599 58.1856614 "></polygon>
+                <polygon id="Star-1-Copy-3" fill="#FDD51F" transform="translate(25.500000, 80.500000) rotate(-45.000000) translate(-25.500000, -80.500000) " points="25.5 89.25 15.2137581 94.6577974 17.1782555 83.2038987 8.85651096 75.0922026 20.356879 73.4211013 25.5 63 30.643121 73.4211013 42.143489 75.0922026 33.8217445 83.2038987 35.7862419 94.6577974 "></polygon>
+                <circle id="Oval-113" fill="#D8D8D8" cx="410" cy="28" r="3"></circle>
+                <circle id="Oval-113-Copy" fill="#D8D8D8" cx="47" cy="94" r="3"></circle>
+                <circle id="Oval-113-Copy-2" fill="#D8D8D8" cx="50" cy="72" r="3"></circle>
+                <circle id="Oval-113-Copy-3" fill="#D8D8D8" cx="517" cy="198" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
